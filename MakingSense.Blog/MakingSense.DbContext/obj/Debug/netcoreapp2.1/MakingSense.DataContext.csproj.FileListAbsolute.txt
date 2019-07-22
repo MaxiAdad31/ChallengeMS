@@ -1,0 +1,16 @@
+D:\Proyectos\MakingSense\Blog\MakingSense.Blog\MakingSense.DbContext\bin\Debug\netcoreapp2.1\MakingSense.DataContext.deps.json
+D:\Proyectos\MakingSense\Blog\MakingSense.Blog\MakingSense.DbContext\bin\Debug\netcoreapp2.1\MakingSense.DataContext.dll
+D:\Proyectos\MakingSense\Blog\MakingSense.Blog\MakingSense.DbContext\bin\Debug\netcoreapp2.1\MakingSense.DataContext.pdb
+D:\Proyectos\MakingSense\Blog\MakingSense.Blog\MakingSense.DbContext\bin\Debug\netcoreapp2.1\MakingSense.Model.dll
+D:\Proyectos\MakingSense\Blog\MakingSense.Blog\MakingSense.DbContext\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Proyectos\MakingSense\Blog\MakingSense.Blog\MakingSense.DbContext\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Identity.Stores.dll
+D:\Proyectos\MakingSense\Blog\MakingSense.Blog\MakingSense.DbContext\bin\Debug\netcoreapp2.1\MakingSense.Model.pdb
+D:\Proyectos\MakingSense\Blog\MakingSense.Blog\MakingSense.DbContext\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.xml
+D:\Proyectos\MakingSense\Blog\MakingSense.Blog\MakingSense.DbContext\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Identity.Stores.xml
+D:\Proyectos\MakingSense\Blog\MakingSense.Blog\MakingSense.DbContext\obj\Debug\netcoreapp2.1\MakingSense.DataContext.csprojAssemblyReference.cache
+D:\Proyectos\MakingSense\Blog\MakingSense.Blog\MakingSense.DbContext\obj\Debug\netcoreapp2.1\MakingSense.DataContext.csproj.CoreCompileInputs.cache
+D:\Proyectos\MakingSense\Blog\MakingSense.Blog\MakingSense.DbContext\obj\Debug\netcoreapp2.1\MakingSense.DataContext.AssemblyInfoInputs.cache
+D:\Proyectos\MakingSense\Blog\MakingSense.Blog\MakingSense.DbContext\obj\Debug\netcoreapp2.1\MakingSense.DataContext.AssemblyInfo.cs
+D:\Proyectos\MakingSense\Blog\MakingSense.Blog\MakingSense.DbContext\obj\Debug\netcoreapp2.1\MakingSense.DataContext.csproj.CopyComplete
+D:\Proyectos\MakingSense\Blog\MakingSense.Blog\MakingSense.DbContext\obj\Debug\netcoreapp2.1\MakingSense.DataContext.dll
+D:\Proyectos\MakingSense\Blog\MakingSense.Blog\MakingSense.DbContext\obj\Debug\netcoreapp2.1\MakingSense.DataContext.pdb

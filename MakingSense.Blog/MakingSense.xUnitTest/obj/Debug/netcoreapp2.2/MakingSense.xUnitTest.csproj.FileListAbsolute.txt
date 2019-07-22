@@ -1,0 +1,4 @@
+D:\Proyectos\MakingSense\Blog\MakingSense.Blog\MakingSense.xUnitTest\obj\Debug\netcoreapp2.2\MakingSense.xUnitTest.csprojAssemblyReference.cache
+D:\Proyectos\MakingSense\Blog\MakingSense.Blog\MakingSense.xUnitTest\obj\Debug\netcoreapp2.2\MakingSense.xUnitTest.csproj.CoreCompileInputs.cache
+D:\Proyectos\MakingSense\Blog\MakingSense.Blog\MakingSense.xUnitTest\obj\Debug\netcoreapp2.2\MakingSense.xUnitTest.AssemblyInfoInputs.cache
+D:\Proyectos\MakingSense\Blog\MakingSense.Blog\MakingSense.xUnitTest\obj\Debug\netcoreapp2.2\MakingSense.xUnitTest.AssemblyInfo.cs

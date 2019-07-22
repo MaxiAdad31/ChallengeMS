@@ -1,0 +1,9 @@
+D:\Proyectos\MakingSense\Blog\MakingSense.Blog\MakingSense.DbContext\bin\Debug\netcoreapp2.1\MakingSense.Model.dll
+D:\Proyectos\MakingSense\Blog\MakingSense.Blog\MakingSense.DbContext\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Proyectos\MakingSense\Blog\MakingSense.Blog\MakingSense.DbContext\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.dll
+D:\Proyectos\MakingSense\Blog\MakingSense.Blog\MakingSense.DbContext\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.xml
+D:\Proyectos\MakingSense\Blog\MakingSense.Blog\MakingSense.DbContext\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.xml
+D:\Proyectos\MakingSense\Blog\MakingSense.Blog\MakingSense.DbContext\obj\Debug\netcoreapp2.1\MakingSense.DbContext.csprojAssemblyReference.cache
+D:\Proyectos\MakingSense\Blog\MakingSense.Blog\MakingSense.DbContext\obj\Debug\netcoreapp2.1\MakingSense.DbContext.csproj.CoreCompileInputs.cache
+D:\Proyectos\MakingSense\Blog\MakingSense.Blog\MakingSense.DbContext\obj\Debug\netcoreapp2.1\MakingSense.DbContext.AssemblyInfoInputs.cache
+D:\Proyectos\MakingSense\Blog\MakingSense.Blog\MakingSense.DbContext\obj\Debug\netcoreapp2.1\MakingSense.DbContext.AssemblyInfo.cs
